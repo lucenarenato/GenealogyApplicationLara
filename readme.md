@@ -4,8 +4,12 @@
 
 ## A genealogy/family tree application, built with Laravel.
 
-[![Build Status](https://travis-ci.org/nafiesl/silsilah.svg?branch=master)](https://travis-ci.org/nafiesl/silsilah)
-[![Coverage Status](https://coveralls.io/repos/github/nafiesl/silsilah/badge.svg?branch=master)](https://coveralls.io/github/nafiesl/silsilah?branch=master)
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
 
 > **Development in progress**  
 > In development progress, any changes of table structure **will be updated** directly to corresponding **migration file**.
@@ -61,8 +65,8 @@ This application can be installed on local server and online server with these s
 
 ### Installation Steps
 
-1. Clone the repo : `git clone https://github.com/nafiesl/silsilah.git`
-2. `cd silsilah`
+1. Clone the repo : `git clone https://github.com/lucenarenato/GenealogyApplicationLara.git`
+2. `cd GenealogyApplicationLara`
 3. `composer install`
 4. `cp .env.example .env`
 5. `php artisan key:generate`
